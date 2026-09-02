@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.parquet
+.env
+.DS_Store
+specs.md
